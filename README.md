@@ -23,7 +23,7 @@ Welcome to my GitHub Profile! I’m a passionate developer specialising in Web d
 
 
 ## 🌟 Featured Projects
-- 🔗 [Project Name](https://github.com/Wend-ai/byb_project)
+- 🔗 [byb_project](https://github.com/Wend-ai/byb_project)
 
 
 ---
